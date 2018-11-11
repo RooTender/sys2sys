@@ -1,5 +1,4 @@
 #include <cstdio>
-#include <conio.h>
 #include <stack>
 
 //Converters
